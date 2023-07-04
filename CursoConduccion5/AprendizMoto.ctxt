@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=AprendizMoto
+comment1.params=
+comment1.target=java.lang.String\ getCedula()
+comment10.params=cedula\ nombre\ tipoLicencia\ notaTeoria\ notaCircuito
+comment10.target=AprendizMoto(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment11.params=
+comment11.target=double\ calcularPromedio()
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getTipoLicencia()
+comment5.params=tipoLicencia
+comment5.target=void\ setTipoLicencia(java.lang.String)
+comment6.params=
+comment6.target=double\ getNotaTeoria()
+comment7.params=notaTeoria
+comment7.target=void\ setNotaTeoria(double)
+comment8.params=
+comment8.target=double\ getNotaCircuito()
+comment9.params=notaCircuito
+comment9.target=void\ setNotaCircuito(double)
+numComments=12

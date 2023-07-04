@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Aprendiz
+comment1.params=cedula\ nombre\ tipoLicencia\ notaTeoria\ notaCircuito\ notaCarretera
+comment1.target=Aprendiz(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcularPromedio()
+numComments=3
